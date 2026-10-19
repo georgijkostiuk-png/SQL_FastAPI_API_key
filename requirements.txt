@@ -1,0 +1,20 @@
+# Install with: pip install -r requirements.txt
+
+# Web framework + server
+fastapi
+uvicorn
+
+# Data validation (installed with fastapi, listed because it's imported directly)
+pydantic
+
+# Database ORM + MySQL driver (DATABASE_URL uses mysql+pymysql)
+sqlalchemy
+pymysql
+cryptography    # needed by PyMySQL for MySQL 8 default authentication
+
+# Password hashing (util.py)
+argon2-cffi
+bcrypt
+
+# HTTP requests to the SerpApi REST API (flights / hotels)
+requests

@@ -1,0 +1,22 @@
+{
+  "username": "max",
+  "password": "12345"
+}
+
+{
+  "username": "hans",
+  "password": "67890"
+}
+
+{
+  "username": "otto",
+  "password": "09876"
+}
+
+{
+  "username": "jake",
+  "password": "00000"
+}
+
+
+

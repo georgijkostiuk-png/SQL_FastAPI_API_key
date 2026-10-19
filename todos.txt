@@ -1,0 +1,62 @@
+{
+  "home_city": "Paris",
+  "departure_id": "CDG",
+  "destination_city": "Tokyo",
+  "arrival_id": "HND",
+  "vacation_start": "2026-07-20",
+  "vacation_end": "2026-07-27"
+}
+
+{
+  "home_city": "Dortmund",
+  "departure_id": "DTM",
+  "destination_city": "Mallorca",
+  "arrival_id": "PMI",
+  "vacation_start": "2026-07-20",
+  "vacation_end": "2026-07-27"
+}
+
+{
+  "home_city": "LosAngeles",
+  "departure_id": "LAX",
+  "destination_city": "NewYork",
+  "arrival_id": "JFK",
+  "vacation_start": "2026-07-20",
+  "vacation_end": "2026-07-27"
+}
+
+{
+  "home_city": "LosAngeles",
+  "departure_id": "LAX",
+  "destination_city": "London",
+  "arrival_id": "LHR",
+  "vacation_start": "2026-07-20",
+  "vacation_end": "2026-07-27"
+}
+
+{
+  "home_city": "Dortmund",
+  "departure_id": "DTM",
+  "destination_city": "Vilnius",
+  "arrival_id": "VNO",
+  "vacation_start": "2026-08-01",
+  "vacation_end": "2026-08-08"
+}
+
+{
+  "home_city": "LosAngeles",
+  "departure_id": "LAX",
+  "destination_city": "Sydney",
+  "arrival_id": "SYD",
+  "vacation_start": "2026-07-20",
+  "vacation_end": "2026-07-27"
+}
+
+{
+  "home_city": "Dubai",
+  "departure_id": "DXB",
+  "destination_city": "London",
+  "arrival_id": "LHR",
+  "vacation_start": "2026-07-20",
+  "vacation_end": "2026-07-27"
+}
